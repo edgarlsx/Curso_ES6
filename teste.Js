@@ -45,7 +45,7 @@ console.log(pessoas.findIndex(nome => nome === "Cris"));
 console.log(pessoas.lastIndexOf("Cris"));
 console.log(pessoas.find(nome => nome === "Cris"));
 
-fruta "melancia" e removendo as frutas "abacaxi" e "caju":
+//fruta "melancia" e removendo as frutas "abacaxi" e "caju":
 
 class Pessoa {
     #nome = '';
